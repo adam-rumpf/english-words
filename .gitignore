@@ -1,2 +1,3 @@
 *.pyc
 *.ini
+!word_statistics.ini
